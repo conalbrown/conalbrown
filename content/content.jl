@@ -28,6 +28,14 @@ info["linkedin"] = "https://www.linkedin.com/in/jeanfrancoisbaffier/"
 info["github"] = "https://github.com/Azzaare"
 info["twitter"] = "https://twitter.com/bioazzaare"
 
+biography = Block(
+    paragraphs(
+    """
+    ### Hi there 👋
+     🔭 I’m currently working on my PhDois implemented the StaticWebPages.jl package that was used to generate this website using a simple content file. This is a dummy email: $(email("dummy@example.purpose"))
+    """
+    ),
+
 ######################################
 # publications.html
 ######################################
@@ -40,3 +48,4 @@ page(
         )
     ]
 )
+
