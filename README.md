@@ -1,5 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on my PhD
+🔭 I’m working on my PhD
+- 🌱 I’m learning Github...
+
 <!--
 **conalbrown/conalbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
